@@ -1,0 +1,61 @@
+{
+  "data":[
+    {
+      "id":1,
+      "name":"SMYCKA 스뮈카",
+      "price":1200,
+      "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-flower-peony-white__0903934_pe685425_s5.jpg",      
+      "category":"deco"
+    },
+    {
+      "id":2,
+      "name":"VARDAGEN 바르다겐",
+      "price":9900,
+      "img":"https://www.ikea.com/kr/ko/images/products/vardagen-glass-blue__0859584_pe781016_s5.jpg",      
+      "category":"kitchen"     
+    },
+    {
+      "id":3,
+      "name":"SOMMARLÅNKE 솜말롱케",
+      "price":12900,
+      "img":"https://www.ikea.com/kr/ko/images/products/sommarlanke-led-decorative-table-lamp-outdoor-jar-battery-operated-clear__1149218_pe883914_s5.jpg" ,      
+      "category":"summer"     
+    },
+    
+    {
+      "id":4,
+      "name":"FEJKA 페이카",
+      "price":2900,
+      "img":"https://www.ikea.com/kr/ko/images/products/fejka-artifi-potted-plant-w-pot-set-of-3-in-outdoor-herbs__1034044_pe840155_s5.jpg",      
+      "category":"deco"      
+    },
+    {
+      "id":4,
+      "name":"JÄMLIK 옘리크",
+      "price":2500,
+      "img":"https://www.ikea.com/kr/ko/images/products/jaemlik-scented-candle-in-glass-vanilla-light-beige__1096413_pe864384_s5.jpg?" ,      
+      "category":"deco"     
+    },
+    {
+      "id":5,
+      "name":"SOMMARLÅNKE 솜말롱케",
+      "price":3500,
+      "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-flower-ranunculus-white__0903022_pe596723_s5.jpg",      
+      "category":"deco"    
+    },
+    {
+      "id":6,
+      "name":"SOMMARFLOX 솜마르플록스",
+      "price":19900,
+      "img":"https://www.ikea.com/kr/ko/images/products/sommarflox-jar-with-tap-transparent-bright-green__1156931_pe887373_s5.jpg",      
+      "category":"kitchen"     
+    },
+    {
+      "id":7,
+      "name":"UPPLAGA 우플라가",
+      "price":7900,
+      "img":"https://www.ikea.com/kr/ko/images/products/upplaga-deep-plate-white__0747074_pe744407_s5.jpg",      
+      "category":"kitchen"     
+    }
+  ]
+}

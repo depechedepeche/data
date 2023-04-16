@@ -1,0 +1,55 @@
+@charset "UTF-8"; 
+body { display: flex;
+  justify-content: center; 
+  font-family:Verdana, Geneva, Tahoma, sans-serif}
+
+.container {
+  padding-top: 30px;
+  max-width: 700px;
+  min-width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 10px;
+}
+
+h1 { font-size:1.6em; margin-bottom:1em;}
+
+.container img { width:60px}
+
+.container>button {
+  width:500px; padding:10px 0;
+}
+
+.container ul {
+  display: flex;
+  flex-direction: column;
+  width:100%;
+  row-gap: 20px;
+  margin-bottom:30px
+}
+
+.container ul li {
+  display: flex;
+  column-gap: 10px; 
+  align-items: center;
+  background: #d6d6d6;
+  padding:10px 20px;
+  border-radius:16px;
+}
+
+.name { padding:10px 0; font-weight:bold; width:75%}
+.price { color:#e74040; font-size:14px;}
+
+.total {
+  font-weight: bold; font-size:18px;
+}
+
+.total-price {
+  color: #185fe2; font-size:18px;
+}
+
+input[type='checkbox'] {
+  width: 15px;
+  height: 15px;
+}

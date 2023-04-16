@@ -1,0 +1,2 @@
+1.json파일 만들고 js파일에서 import해보고 콘솔로 확인
+2.위에꺼를 object로 만들로 export해보고 확인
